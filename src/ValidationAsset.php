@@ -10,7 +10,7 @@ use yii\web\AssetBundle;
  */
 class ValidationAsset extends AssetBundle
 {
-    public $sourcePath = '@choate/assets';
+    public $sourcePath = '@choate/validators/assets';
     public $js = [
         'choate.validation.js',
     ];

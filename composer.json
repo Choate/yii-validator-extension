@@ -21,6 +21,6 @@
     "yiisoft/yii2": ">=2.0.6"
   },
   "autoload": {
-    "psr-4": {"choate\\validator\\": "src/"}
+    "psr-4": {"choate\\validators\\": "src/"}
   }
 }
